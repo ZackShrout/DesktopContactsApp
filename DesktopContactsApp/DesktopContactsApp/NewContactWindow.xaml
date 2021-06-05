@@ -12,7 +12,7 @@
                      Margin="0,0,0,5"/>
             <TextBox x:Name="emailTextBox"
                      Margin="0,0,0,5"/>
-            <TextBox x:Name="phoneTextBox"
+            <TextBox x:Name="phoneNumberTextBox"
                      Margin="0,0,0,5"/>
             <Button Content="Save"
                     Click="SaveButton_Click"/>
