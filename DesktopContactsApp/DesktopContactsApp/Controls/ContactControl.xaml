@@ -4,9 +4,9 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:DesktopContactsApp.Controls"
-             mc:Ignorable="d" 
+             mc:Ignorable="d"
              d:DesignHeight="90" d:DesignWidth="300">
-    <Grid>
+    <Grid Background="#AAD3D3D3">
         <StackPanel Margin="5">
             <TextBlock x:Name="nameTextBlock"
                        Text ="Name Lastname"
